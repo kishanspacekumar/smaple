@@ -1,0 +1,21 @@
+{
+  State: 'MN',
+  City: 'RAMSEY',
+  LastName: 'DENHAM',
+  FirstName: 'SHAUN',
+  MiddleName: 'PATRICK',
+  Address: '5555 222TH AVE NW',
+  Unknown: '',
+  LicenseNumber: '13519844658009',
+  DOB: '28091977',
+  DOB_FORMAT: '1977-09-28 00:00:00'
+}
+
+// Sample data for track 1
+var sampleTrack1Data = "%MNRAMSEY^DENHAM$SHAUN$PATRICK^5555 222TH AVE NW^?";
+
+// Sample data for track 2 (for demonstration purposes)
+var sampleTrack2Data = ";63603813519844658009=2809197709149?";
+
+// Sample combined data
+var combinedData = "%MNRAMSEY^DENHAM$SHAUN$PATRICK^5555 222TH AVE NW^?;63603813519844658009=2809197709149?";
